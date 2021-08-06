@@ -1,3 +1,3 @@
-# Look what you found, <img src="https://emojis.slackmojis.com/emojis/images/1611266919/12190/among-us-red-run.gif?1611266919" width="30"/>
+# Look what you found, <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif?1450458551.gif" width="30"/>
 
-Making as many usefuls stuff as possible, as well as making games at [Wildfild](https://github.com/wildfild).
+Currently working on the **Zeta Healthcare API**, going through the last year of **High School**, and founding **DLAB**, a small digital agency backed by me and a few friends.
